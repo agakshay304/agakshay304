@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Akshay Gupta, currently pursuing my bachelor's degree majoring in computer science from [Manipal Institute Of Technology](https://manipal.edu/mit.html). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Akshay Gupta, currently pursuing my bachelor's degree in computer science from [Manipal Institute Of Technology](https://manipal.edu/mit.html). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-AkshayGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-gupta-92b2b91b7/)](https://www.linkedin.com/in/akshay-gupta-92b2b91b7/)
 [![Instagram Badge](https://img.shields.io/badge/-AkshayGupta-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_akshayygupta_/)](https://www.instagram.com/_akshayygupta_/)
