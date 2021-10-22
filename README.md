@@ -4,7 +4,7 @@ I am Akshay Gupta, currently pursuing my bachelor's degree in computer science f
 
 [![Linkedin Badge](https://img.shields.io/badge/-AkshayGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshay-gupta-92b2b91b7/)](https://www.linkedin.com/in/akshay-gupta-92b2b91b7/)
 [![Instagram Badge](https://img.shields.io/badge/-AkshayGupta-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/_akshayygupta_/)](https://www.instagram.com/_akshayygupta_/)
-[![Gmail Badge](https://img.shields.io/badge/-agakshay304@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AkshayGupta)](mailto:akshaygupta@duck.com)
+[![Gmail Badge](https://img.shields.io/badge/-akshaygupta@duck.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:AkshayGupta)](mailto:akshaygupta@duck.com)
 
 ## ⚡ Technologies
 
