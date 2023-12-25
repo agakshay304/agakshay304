@@ -1,7 +1,6 @@
 # 🌟 Greetings, Visitor! I'm Akshay Gupta.
 
 ![Wave Animation](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)
-
 🚀 Aspiring Computer Scientist | Tech Enthusiast | Open Source Advocate
 
 ---
