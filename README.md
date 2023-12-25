@@ -3,15 +3,11 @@
 ![Wave Animation](https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif)
 🚀 Aspiring Computer Scientist | Tech Enthusiast | Open Source Advocate
 
----
-
 ## 🌐 Connect with Me
 
 [![Linkedin Badge](https://img.shields.io/badge/-Connect%20with%20Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akshay-gupta-92b2b91b7/)
 [![Instagram Badge](https://img.shields.io/badge/-Follow%20Me-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_akshayygupta_/)
 [![Gmail Badge](https://img.shields.io/badge/-Say%20Hello-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:AkshayGupta)](mailto:akshaygupta@duck.com)
-
----
 
 ## ⚡ Technologies & Tools
 
